@@ -4,6 +4,12 @@
 
 This project will help you to automatically mosaic faces present in the picture from a given directory.
 
+## Requirements
+
+- python >= 3.5
+- opencv >= 4.0  &emsp;&emsp; *Because we only tested it on opencv 4.2*
+- numpy
+
 ## Face Detector
 The face detrector in this project uses [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB).
 
